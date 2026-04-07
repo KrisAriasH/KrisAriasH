@@ -1,25 +1,28 @@
-# Krisly Daniela Arias Hidalgo
+## 🧾 About Me  
 
-**Full-Stack Developer with a foundation in Computer Science, UX Design, Data Analysis, and Cybersecurity**
+<p align="center">
+I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, currently integrating <b>UX, data analysis, and cybersecurity</b> into my work.
+</p>
+
+<p align="center">
+I enjoy building systems that combine technical depth with meaningful user experiences.
+</p>
 
 ---
 
-## 🧾 About Me
+I enjoy working on systems that involve:
 
-I am a multidisciplinary developer with a strong foundation in **computer science, software development, and interactive technologies**.
+⚙️ full-stack architecture  
+🎨 user-centered design (UX)  
+📊 data visualization & analysis  
+🔐 cybersecurity fundamentals  
+⚡ hardware & embedded systems  
 
-My background combines **engineering, design, data, and security**, allowing me to approach problems from both a technical and user-centered perspective.
+---
 
-I have experience in:
-
-* Full-stack development and system design
-* UI/UX and user-centered digital products
-* Data visualization and data analysis (currently expanding)
-* Cybersecurity fundamentals and teaching
-* Electronics and hardware-based projects
-
-I am particularly interested in building **secure, scalable, and user-focused digital systems** that integrate data and meaningful user experiences.
-
+<p align="center">
+Currently focused on building <b>secure, scalable, and data-driven digital products</b> while expanding my expertise in data analysis and modern web development.
+</p>
 ---
 
 ## ⚙️ Tech Stack

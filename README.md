@@ -11,14 +11,6 @@ I enjoy building systems that combine technical depth with meaningful user exper
 
 ---
 
-I enjoy working on systems that involve:
-
-⚙️ full-stack architecture  
-🎨 user-centered design (UX)  
-📊 data visualization & analysis  
-
----
-
 <p align="center">
 Currently focused on building <b>secure, scalable, and data-driven digital products</b> while expanding my expertise in data analysis and modern web development.
 </p>

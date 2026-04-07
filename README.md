@@ -1,8 +1,6 @@
 ## About me
 <h1 align="center">Krisly Arias</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer" />
-</p>
+
 <p align="center">
 I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, currently integrating <b>UX and data analysis</b> into my work.
 </p>

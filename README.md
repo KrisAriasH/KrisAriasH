@@ -26,24 +26,28 @@ I am particularly interested in building **secure, scalable, and user-focused di
 
 ### Programming
 
-Python • Java • JavaScript • C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-HTML • CSS • Tailwind CSS • JavaScript • React (learning)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
-Laravel • REST APIs • Backend architecture fundamentals
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) • REST APIs 
 
 ### Databases
 
-MySQL • SQL Server • Relational modeling
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ### Data & Visualization
 
-Tableau • Data visualization • Data analysis (learning)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ### Cybersecurity
 
 Security fundamentals • Risk awareness • System vulnerabilities • Teaching experience
@@ -52,17 +56,15 @@ Security fundamentals • Risk awareness • System vulnerabilities • Teaching
 
 Arduino • Embedded logic • Computer architecture fundamentals
 
-### Tools
-
-Git • GitHub • SharePoint Online
 
 ### UX & Design
 
-Figma • Wireframing • Prototyping • User flows • Usability testing
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) • Wireframing • Prototyping • User flows • Usability testing
 
 ### Multimedia
 
-Adobe Suite • Blender • Visual storytelling
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 

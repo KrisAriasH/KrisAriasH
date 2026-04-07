@@ -9,6 +9,10 @@ I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, 
 I enjoy building systems that combine technical depth with meaningful user experiences.
 </p>
 
+
+<p align="center">
+🌍 <b>Languages:</b> Spanish (Native) • English (C1) • Portuguese (Professional)
+</p>
 ---
 
 <p align="center">
@@ -28,39 +32,6 @@ Currently focused on building <b>secure, scalable, and data-driven digital produ
 | **Hardware & Systems** | Arduino • Embedded logic • Computer architecture |
 | **UX & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) • Wireframing • Prototyping |
 | **Multimedia** | ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
-
----
-
-## 🚀 Featured Projects
-
-### Attimo – Learning Management System
-
-Full-stack web application for time management and productivity.
-
-**Stack:** React • Tailwind • Laravel • MySQL
-
-* Designed with a user-centered approach
-* Built scalable backend and frontend integration
-* Focused on usability and performance
-
----
-
-### RFID Security & Data Capture System
-
-Electronics + software project using Arduino.
-
-* RFID data capture
-* Vulnerability analysis
-* Hardware–software integration
-
----
-
-### AI Maze Solver
-
-Artificial intelligence project solving logical environments.
-
-* Rule-based logic
-* Algorithmic problem solving
 
 ---
 
@@ -88,10 +59,3 @@ Artificial intelligence project solving logical environments.
 * First place – ExpoMedia 2023
 * Internship at ICE (national-level institution)
 
----
-
-## 🌍 Languages
-
-* Spanish: Native
-* English: C1 (Cambridge Advanced)
-* Portuguese: Professional working proficiency

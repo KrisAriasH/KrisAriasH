@@ -20,7 +20,7 @@ Currently focused on building <b>secure, scalable, and data-driven digital produ
 </p>
 
 ## ⚙️ Tech Stack
-
+<div align="center">
 | Category | Technologies |
 |----------|------------|
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
@@ -32,7 +32,7 @@ Currently focused on building <b>secure, scalable, and data-driven digital produ
 | **Hardware & Systems** | Arduino • Embedded logic • Computer architecture |
 | **UX & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) • Wireframing • Prototyping |
 | **Multimedia** | ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
-
+div>
 ---
 
 ## 📈 Current Focus

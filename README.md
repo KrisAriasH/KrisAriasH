@@ -1,4 +1,5 @@
-## 🧾 About Me  
+## About me
+<h1 align="center">Krisly Arias</h1>
 
 <p align="center">
 I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, currently integrating <b>UX, data analysis, and cybersecurity</b> into my work.
@@ -23,7 +24,6 @@ I enjoy working on systems that involve:
 <p align="center">
 Currently focused on building <b>secure, scalable, and data-driven digital products</b> while expanding my expertise in data analysis and modern web development.
 </p>
----
 
 ## ⚙️ Tech Stack
 

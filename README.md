@@ -9,7 +9,7 @@ I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, 
 I enjoy building systems that combine technical depth with meaningful user experiences.
 </p>
 
-
+---
 <p align="center">
 🌍 <b>Languages:</b> Spanish (Native) • English (C1) • Portuguese (Professional)
 </p>

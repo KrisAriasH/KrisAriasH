@@ -43,11 +43,3 @@ Currently focused on building <b>secure, scalable, and data-driven digital produ
 * Building interdisciplinary digital products
 
 ---
-
-## 🏆 Achievements
-
-* GPA 9.62 – Informatics and Multimedia Technology
-* Cambridge C1 Advanced Certification
-* First place – ExpoMedia 2023
-* Internship at ICE (national-level institution)
-

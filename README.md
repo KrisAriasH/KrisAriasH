@@ -35,14 +35,6 @@ Currently focused on building <b>secure, scalable, and data-driven digital produ
 
 ---
 
-## 🎓 Teaching & Experience
-
-* Cybersecurity instructor (introductory level)
-* Experience explaining technical concepts to beginners
-* Focus on ethical, practical, and real-world security awareness
-
----
-
 ## 📈 Current Focus
 
 * Data analysis and data-driven systems

@@ -10,10 +10,10 @@ I enjoy building systems that combine technical depth with meaningful user exper
 </p>
 
 ---
+
 <p align="center">
 🌍 <b>Languages:</b> Spanish (Native) • English (C1) • Portuguese (Professional)
 </p>
----
 
 <p align="center">
 Currently focused on building <b>secure, scalable, and data-driven digital products</b> while expanding my expertise in data analysis and modern web development.

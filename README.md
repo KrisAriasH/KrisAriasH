@@ -1,4 +1,3 @@
-## About me
 <h1 align="center">Krisly Arias</h1>
 
 <p align="center">

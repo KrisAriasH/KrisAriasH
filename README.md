@@ -2,7 +2,7 @@
 <h1 align="center">Krisly Arias</h1>
 
 <p align="center">
-I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, currently integrating <b>UX, data analysis, and cybersecurity</b> into my work.
+I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, currently integrating <b>UX and data analysis</b> into my work.
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@ I enjoy working on systems that involve:
 ⚙️ full-stack architecture  
 🎨 user-centered design (UX)  
 📊 data visualization & analysis  
-🔐 cybersecurity fundamentals  
-⚡ hardware & embedded systems  
 
 ---
 

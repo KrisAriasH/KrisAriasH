@@ -23,7 +23,6 @@ I am particularly interested in building **secure, scalable, and user-focused di
 ---
 
 ## ⚙️ Tech Stack
-## ⚙️ Tech Stack  
 
 | Category | Technologies |
 |----------|------------|
@@ -35,7 +34,6 @@ I am particularly interested in building **secure, scalable, and user-focused di
 | **Cybersecurity** | Security fundamentals • Risk awareness • Teaching experience |
 | **Hardware & Systems** | Arduino • Embedded logic • Computer architecture |
 | **UX & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) • Wireframing • Prototyping |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Multimedia** | ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
 
 ---

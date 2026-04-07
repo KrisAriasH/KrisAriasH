@@ -6,6 +6,10 @@ I'm a <b>Full-Stack Developer</b> with a foundation in <b>Computer Science</b>, 
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UX+%2B+Data%2B" />
+</p>
+
+<p align="center">
 I enjoy building systems that combine technical depth with meaningful user experiences.
 </p>
 
